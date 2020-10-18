@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>It's just a begining.</title>
-</head>
-<body>
-<h1>Hello friends, just remember one thing. whatever happens in life, Never give up your patiens and passion.</h1>
-</body>
-</html>
